@@ -55,7 +55,7 @@
 │               │   ├── dao.py
 │               │   └── dto.py
 │               ├── scripts/
-│               │   └── ./
+│               │   └── __init__.py
 │               ├── database/
 │               │   ├── __init__.py
 │               │   ├── migrations/
@@ -75,11 +75,11 @@
 │               │   │   └── annotations.py
 │               │   ├── utils/
 │               │   │   └── __init__.py
-│               │   ├── tokens.py/
+│               │   ├── tokens/
 │               │   │   ├── __init__.py
 │               │   │   ├── service.py
 │               │   │   └── exceptions.py
-│               │   ├── smtp.py/
+│               │   ├── smtp/
 │               │   │   ├── __init__.py
 │               │   │   ├── service.py
 │               │   │   └── exceptions.py
